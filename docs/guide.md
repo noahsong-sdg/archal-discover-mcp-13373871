@@ -1,0 +1,3 @@
+# Guide
+
+Use the bot.
